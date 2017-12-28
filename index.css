@@ -1,3 +1,18 @@
+.container:not(.no-top-padding-container) {
+}
+
 body {
+	/*padding-top: 70px !important;*/
+	background: rgba(227,227,227,1);
   font: 15px arial, sans-serif;
+}
+html, body, div.container:not(.no-full-container) {
+	height: 100%;
+}
+.download {
+	text-align: center;
+}
+.row {
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
