@@ -3,12 +3,12 @@
 
 body {
 	/*padding-top: 70px !important;*/
-	background: #FED7B0;
+	background: antiquewhite;
   font: 15px arial, sans-serif;
 }
 
 h1 {
-  color:darkred;
+  color:black;
 }
 
 html, body, div.container:not(.no-full-container) {
